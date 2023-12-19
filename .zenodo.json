@@ -1,0 +1,42 @@
+{
+    "language": "eng",
+    "license": "MIT",
+    "title": "Conal-Tuohy/TroveProxyTest",
+    "related_identifiers": [
+      {
+        "scheme": "url",
+        "identifier": "https://github.com/Conal-Tuohy/TroveProxyTest/tree/v0.0.0",
+        "relation": "isDerivedFrom",
+        "resource_type": "software"
+      },
+      {
+        "scheme": "url",
+        "identifier": "https://glam-workbench.net/trove-proxy-test/",
+        "relation": "isDocumentedBy",
+        "resource_type": "publication-softwaredocumentation"
+      },
+      {
+        "scheme": "url",
+        "identifier": "https://glam-workbench.net/",
+        "relation": "isPartOf",
+        "resource_type": "other"
+      }
+    ],
+    "version": "v0.0.0",
+    "upload_type": "software",
+    "keywords": [
+      "digital humanities",
+      "Jupyter",
+      "GLAM Workbench"
+    ],
+    "publication_date": "2023-12-19",
+    "creators": [
+    {
+        "name": "Tuohy, Conal",
+        "orcid": "https://orcid.org/0000-0001-6831-3423"
+    }
+],
+    "access_right": "open",
+    "description": ""
+  }
+  
